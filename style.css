@@ -6,6 +6,16 @@ p {
 	text-align: center;
 }
 
+#missao {
+	font-size: 20px;
+	color: #1100ff;
+}
+
 em strong {
 	color: #1100ff;
+}
+.itens {
+	font-style: italic;
+
+color:#1100ff;
 }
